@@ -6,7 +6,7 @@ namespace GitHelloWorld
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Viktor Dmytruk PI-18-02!");
+			Console.WriteLine("Hello World!");
 		}
 	}
 }
