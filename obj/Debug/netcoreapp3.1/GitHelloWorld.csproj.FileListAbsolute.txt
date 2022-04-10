@@ -1,0 +1,14 @@
+C:\Code\KPZ\GitHelloWorld\bin\Debug\netcoreapp3.1\GitHelloWorld.exe
+C:\Code\KPZ\GitHelloWorld\bin\Debug\netcoreapp3.1\GitHelloWorld.deps.json
+C:\Code\KPZ\GitHelloWorld\bin\Debug\netcoreapp3.1\GitHelloWorld.runtimeconfig.json
+C:\Code\KPZ\GitHelloWorld\bin\Debug\netcoreapp3.1\GitHelloWorld.runtimeconfig.dev.json
+C:\Code\KPZ\GitHelloWorld\bin\Debug\netcoreapp3.1\GitHelloWorld.dll
+C:\Code\KPZ\GitHelloWorld\bin\Debug\netcoreapp3.1\GitHelloWorld.pdb
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.csproj.AssemblyReference.cache
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.AssemblyInfoInputs.cache
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.AssemblyInfo.cs
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.csproj.CoreCompileInputs.cache
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.dll
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.pdb
+C:\Code\KPZ\GitHelloWorld\obj\Debug\netcoreapp3.1\GitHelloWorld.genruntimeconfig.cache
